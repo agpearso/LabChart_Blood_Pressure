@@ -4,7 +4,7 @@
 	
 ## Data pad set up ##
 
-	      Call Doc.OpenView ("Data Pad")
+	Call Doc.OpenView ("Data Pad")
 	
         ' Begin DataPadColumnSetup
         Column = 2
@@ -193,4 +193,4 @@
         Call Doc.SetViewState ("Chart View", 1, 61728)
 
 
-End Sub
+	End Sub
